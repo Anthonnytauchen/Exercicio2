@@ -12,4 +12,5 @@ function ehDataValida(dia,mes,ano){
     return true
 }
 
-console.log(ehDataValida(41,2,20246))
+console.log(ehDataValida(28,2,2024))
+
